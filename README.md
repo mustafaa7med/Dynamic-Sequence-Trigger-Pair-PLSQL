@@ -65,7 +65,6 @@ CURSOR cons_cursor IS
     AND ucc.column_name NOT IN ('START_DATE','JOB_ID','COUNTRY_ID');
 
 cons_max number(8,2);
-seq_count number(8,2);
 
 BEGIN
         
