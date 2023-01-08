@@ -1,6 +1,6 @@
 # Dynamic-Sequence-Trigger-Pair-PLSQL
 Dynamically Creating a Sequence/Trigger Pair using Oracle PL/SQL
-## Yet, It has a few complications
+## Creating a sequence/pair through a click based software has a few complications such as:
 
 - Sequence/Trigger is Table based
 - Inconvenient in terms of migrating to another DBMS
