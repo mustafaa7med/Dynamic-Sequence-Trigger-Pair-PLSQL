@@ -1,5 +1,7 @@
 # Dynamic-Sequence-Trigger-Pair-PLSQL
-Dynamically Creating a Sequence/Trigger Pair using Oracle PL/SQL
+### Project Main Objective Is
+Dynamically Creating a Sequence/Trigger Pair using Oracle PL/SQL on every table in the database.
+
 ## Creating a sequence/pair through a click based software has a few complications such as:
 
 - Sequence/Trigger is Table based
@@ -15,6 +17,7 @@ Dynamically Creating a Sequence/Trigger Pair using Oracle PL/SQL
 - SEQUENCE
 - TRIGGER
 - Data Dictionary
+- Procedure *(Optional)*
 
 ### Note: I've used TOAD throughout this project and i've used the default database that comes with it.
 
