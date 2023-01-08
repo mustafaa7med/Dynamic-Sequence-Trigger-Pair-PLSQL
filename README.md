@@ -1,5 +1,5 @@
 # Dynamic-Sequence-Trigger-Pair-PLSQL
-### Project Main Objective Is
+### Project's Main Objective Is
 Dynamically Creating a Sequence/Trigger Pair using Oracle PL/SQL on every table in the database.
 
 ## Creating a sequence/pair through a click based software has a few complications such as:
